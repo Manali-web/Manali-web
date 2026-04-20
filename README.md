@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=600&pause=450&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi;Hi+👋;Hi+👋,+I'm;Hi+👋,+I'm+Manali;Hi+👋,+I'm+Manali+Yadav" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-ENTER%20SITE-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=000000"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=700&pause=900&color=00C2FF&center=true&vCenter=true&width=950&lines=Initializing+Embedded+Profile...;Role:+Embedded+Systems+Engineer;Stack:+STM32+%7C+FreeRTOS+%7C+IoT;Status:+Build.+Debug.+Optimize.+Repeat." />
