@@ -3,7 +3,7 @@
 
 Enthusiastic B.Tech student specializing in **Firmware Development**, **Real-Time Systems (FreeRTOS)**, and **Microcontroller Programming**. I focus on building efficient, low-latency systems using **C** and **Rust**.
 
-[🚀 Portfolio Site](https://github.com/Manali-web/manali_portfolio) | [📧 Email Me](mailto:manaliy980@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/your-linkedin-id)
+[🚀 Portfolio Site](https://github.com/Manali-web/manali_portfolio) | [📧 Email Me](manaliy980@gmail.com) | [🔗 LinkedIn](linkedin.com/in/manaliyadav2025)
 
 ---
 
