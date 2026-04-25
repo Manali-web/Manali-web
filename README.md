@@ -1,12 +1,3 @@
-<div align="center">
-
-### 📈 My GitHub Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=Manali-web&show_icons=true&theme=tokyonight&rank_icon=github" height="175px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight" height="175px" />
-
-</div>
-
----
 
 <div align="center">
 
