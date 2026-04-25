@@ -1,3 +1,12 @@
+# Hi, I'm Manali Yadav 👋
+### Embedded Software Engineer | B.Tech ECE 2026 | RTOS & IoT Specialist
+
+Enthusiastic B.Tech student specializing in **Firmware Development**, **Real-Time Systems (FreeRTOS)**, and **Microcontroller Programming**. I focus on building efficient, low-latency systems using **C** and **Rust**.
+
+[🚀 Portfolio Site](https://github.com/Manali-web/manali_portfolio) | [📧 Email Me](mailto:manaliy980@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/your-linkedin-id)
+
+---
+
 
 <div align="center">
 
@@ -17,14 +26,13 @@
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| [**WiFi Controlled Robot**](https://github.com/Manali-web/wifi-controlled-robot) | IoT robot with custom web interface. | `ESP8266` `C++` | 🟢 Completed |
-| [**Bare-Metal ARM**](https://github.com/Manali-web) | Register-level UART/I2C drivers. | `C` `ARM-M4` | 🟡 In Progress |
-| [**DSA Portfolio**](https://github.com/Manali-web/DSA) | Logic building and problem solving. | `C++` | 🟢 Active |
-
+| Project | Key Technical Contribution | Tech |
+| :--- | :--- | :--- |
+| [**WiFi Controlled Robot**](https://github.com/Manali-web/wifi-controlled-robot) | Developed HTTP-based web UI and motor logic for NodeMCU. | `ESP8266` `IoT` |
+| [**Line Follower & Obstacle**](https://github.com/Manali-web) | Optimized relay switching to **<10ms**; designed in Proteus. | `Embedded C` |
+| [**Drone Design**](https://github.com/Manali-web) | Coordinated hardware assembly and flight control logic. | `Aerospace` |
 ## 📈 Coding Performance
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true" alt="Manali's Streak" />
@@ -32,11 +40,21 @@
 
 ---
 
-### 🔌 Hardware & Tools
-- **Microcontrollers:** STM32 (ARM Cortex-M4), NodeMCU, Arduino, Atmega328P.
-- **Protocols:** UART, SPI, I2C, HTTP, MQTT.
-- **Simulation:** Proteus, Tinkercad.
-- **IDE:** STM32CubeIDE, VS Code, Arduino IDE.
+## 🛠️ Technical Expertise
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Embedded C, C++, Rust, HTML/CSS |
+| **RTOS & Firmware** | FreeRTOS (Task Mgmt, Semaphores, Queues), Bare-metal C |
+| **Microcontrollers** | STM32 (Cortex-M), ESP32, NodeMCU, Atmega328P |
+| **Protocols** | UART, SPI, I2C, CAN, MQTT, HTTP |
+| **Tools & IDEs** | STM32CubeIDE, Eclipse, Proteus, Arduino IDE, Git |
+
+## 🎓 Education & Certifications
+- **B.Tech in Electronics and Communication Engineering** | AKTU (2022 – 2026)
+- **Mastering RTOS:** Hands-on FreeRTOS and STM32Fx with Debugging (FastBit Academy)
+- **Microcontroller Embedded C Programming:** Absolute Beginners (FastBit Academy)
+- **Hands-on Drone Design:** Sharda University & IIT Delhi
 
 ## 🤝 Connect with Me
 <p align="left">
