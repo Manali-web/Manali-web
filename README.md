@@ -29,10 +29,6 @@
 </p>
 
 ---
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manali-web&theme=tokyonight&no-bg=true&margin-w=15" />
-</p>
 
 ## 🚀 Featured Engineering Projects
 
