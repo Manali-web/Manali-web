@@ -32,13 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manali-web&theme=tokyonight&no-bg=true&margin-w=15" alt="Manali's Trophies" />
-</p>
-
----
-
 ### 🔌 Hardware & Tools
 - **Microcontrollers:** STM32 (ARM Cortex-M4), NodeMCU, Arduino, Atmega328P.
 - **Protocols:** UART, SPI, I2C, HTTP, MQTT.
