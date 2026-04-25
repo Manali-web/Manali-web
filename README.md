@@ -25,13 +25,19 @@
 | [**Bare-Metal ARM**](https://github.com/Manali-web) | Register-level UART/I2C drivers. | `C` `ARM-M4` | 🟡 In Progress |
 | [**DSA Portfolio**](https://github.com/Manali-web/DSA) | Logic building and problem solving. | `C++` | 🟢 Active |
 
-## 📈 Coding Activity & Streak
-<p align="center">
+## 📈 Coding Performance
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true" alt="Manali's Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manali-web&theme=tokyonight&no-bg=true&margin-w=15" alt="Manali's Trophies" />
 </p>
 
-### 🐍 Contribution Animation
-![snake gif](https://github.com/Manali-web/Manali-web/blob/output/github-contribution-grid-snake.svg)
+---
 
 ### 🔌 Hardware & Tools
 - **Microcontrollers:** STM32 (ARM Cortex-M4), NodeMCU, Arduino, Atmega328P.
