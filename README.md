@@ -6,14 +6,22 @@
 
   </div>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
+
+### 💻 Languages & Firmware
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,stm32,arduino,html,css,git,vscode,eclipse" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-0085CA?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
-## 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manali-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true" />
+
+### 🔌 Hardware & Microcontrollers
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=circuitverse&logoColor=white" />
 </p>
 
 <p align="center">
