@@ -8,10 +8,11 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge&logo=freertos&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### 📈 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=Manali-web&show_icons=true&theme=tokyonight" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight" height="170px" />
+## 📊 Activity Overview
 
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Manali-web&show_icons=true&theme=tokyonight" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight" width="300px" /> |
 </div>
 
 ---
@@ -24,8 +25,13 @@
 | [**Bare-Metal ARM**](https://github.com/Manali-web) | Register-level UART/I2C drivers. | `C` `ARM-M4` | 🟡 In Progress |
 | [**DSA Portfolio**](https://github.com/Manali-web/DSA) | Logic building and problem solving. | `C++` | 🟢 Active |
 
-### 🐍 My Contribution Streak
-![snake gif](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=Manali-web&outputs=color-snake.svg)
+## 📈 Coding Activity & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true" alt="Manali's Streak" />
+</p>
+
+### 🐍 Contribution Animation
+![snake gif](https://github.com/Manali-web/Manali-web/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔌 Hardware & Tools
 - **Microcontrollers:** STM32 (ARM Cortex-M4), NodeMCU, Arduino, Atmega328P.
