@@ -14,9 +14,6 @@
   </p>
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header)
-<div align="center">
-
 ## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,stm32,arduino,html,css,git,vscode,eclipse" />
