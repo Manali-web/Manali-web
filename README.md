@@ -56,6 +56,6 @@ Enthusiastic B.Tech student specializing in **Firmware Development**, **Real-Tim
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="manaliy980@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="linkedin.com/in/manaliyadav2025" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:manaliy980@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="manaliy980@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/manali-yadav-0a64b92b0/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Manali Yadav LinkedIn" /></a>
 </p>
