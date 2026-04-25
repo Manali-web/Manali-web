@@ -1,28 +1,41 @@
-# Hi, I'm Manali Yadav 👋
-### Embedded Software Engineer | B.Tech ECE 2026 | RTOS & IoT Specialist
-
-Enthusiastic B.Tech student specializing in **Firmware Development**, **Real-Time Systems (FreeRTOS)**, and **Microcontroller Programming**. I focus on building efficient, low-latency systems using **C** and **Rust**.
-
-[🚀 Portfolio Site](https://github.com/Manali-web/manali_portfolio) | [📧 Email Me](mailto:manaliy980@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/manali-yadav-0a64b92b0/)
-
----
 <div align="center">
+  
+# Hi, I'm Manali Yadav 👋
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Embedded+Software+Engineer;B.Tech+ECE+2026;RTOS+%26+IoT+Specialist;Firmware+Developer" alt="Typing SVG" />
 
-### 🛠️ Tech Stack & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-green?style=for-the-badge&logo=freertos&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-## 📊 Activity Overview
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Manali-web&show_icons=true&theme=tokyonight" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight" width="300px" /> |
+  <p align="center">
+    <a href="https://www.linkedin.com/in/manali-yadav-0a64b92b0/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:manaliy980@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
+![divider](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header)
+<div align="center">
+
+## 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,stm32,arduino,html,css,git,vscode,eclipse" />
+</p>
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Manali-web&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manali-web&theme=tokyonight&no-bg=true&margin-w=15" />
+</p>
 
 ## 🚀 Featured Engineering Projects
 
