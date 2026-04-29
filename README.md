@@ -1,10 +1,16 @@
 <div align="center">
-  
-# Hi, I'm Manali Yadav 👋
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Embedded+Software+Engineer;B.Tech+ECE+2026;RTOS+%26+IoT+Specialist;Firmware+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Manali+Yadav+👋;Embedded+Software+Engineer;RTOS+%26+Firmware+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-  </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square" />
+</p>
+
+## 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Manali-web/Manali-web/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ## 🛠️ Tech Stack
 
