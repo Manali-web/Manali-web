@@ -11,7 +11,13 @@
 <div align="center">
   <img src="https://github.com/Manali-web/Manali-web/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-## 🛠️ Tech Stack
+## 🔥 Coding Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true&stroke=36BCF7" alt="Manali's Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 💻 Languages & Firmware
 <p align="left">
