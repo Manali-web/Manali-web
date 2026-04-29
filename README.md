@@ -11,38 +11,40 @@
 <div align="center">
   <img src="https://github.com/Manali-web/Manali-web/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-## 🔥 Coding Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manali-web&theme=tokyonight&hide_border=true&stroke=36BCF7" alt="Manali's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+## 🛠️ My Tech Stack
 
 ### 💻 Languages & Firmware
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-0085CA?style=for-the-badge&logo=probot&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,githubactions,html,css" />
+  </a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FreeRTOS-00AEEF?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bare_Metal-4B4B4B?style=for-the-badge&logo=cpu-z&logoColor=white" />
 </p>
 
 ### 🔌 Hardware & Microcontrollers
 <p align="left">
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=stm32,arduino,raspberrypi" />
+  </a>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atmega328P-005195?style=for-the-badge&logo=microchip&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Protocols
+### 🛰️ Protocols & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-FFD700?style=for-the-badge&logo=circuitpython&logoColor=black" />
-  <img src="https://img.shields.io/badge/CAN-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker,cmake,eclipse" />
+  </a>
 </p>
----
-
+<p>
+  <img src="https://img.shields.io/badge/I2C-FFD700?style=for-the-badge&logo=connectivity&logoColor=black" />
+  <img src="https://img.shields.io/badge/SPI-FF8C00?style=for-the-badge&logo=connectivity&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAN_Bus-00599C?style=for-the-badge&logo=bus&logoColor=white" />
+  <img src="https://img.shields.io/badge/UART-4CAF50?style=for-the-badge&logo=serial&logoColor=white" />
+</p>
 ## 🚀 Featured Engineering Projects
 
 | Project | Key Technical Contribution | Tech |
