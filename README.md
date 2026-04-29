@@ -21,13 +21,16 @@
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proteus-000000?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manali-web&layout=compact&theme=tokyonight&hide_border=true" />
+### 🛠️ Tools & Protocols
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-FFD700?style=for-the-badge&logo=circuitpython&logoColor=black" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
-
 ---
 
 ## 🚀 Featured Engineering Projects
