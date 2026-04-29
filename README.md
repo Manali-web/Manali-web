@@ -16,7 +16,7 @@
 ### 💻 Languages & Firmware
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,githubactions,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,C,githubactions,html,css" />
   </a>
 </p>
 <p>
@@ -27,7 +27,7 @@
 ### 🔌 Hardware & Microcontrollers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=stm32,arduino,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=stm32,arduino,stm32" />
   </a>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Atmega328P-005195?style=for-the-badge&logo=microchip&logoColor=white" />
