@@ -27,9 +27,8 @@
 ### 🛠️ Tools & Protocols
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/I2C%20%2F%20SPI%20%2F%20UART-FFD700?style=for-the-badge&logo=circuitpython&logoColor=black" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAN-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 ---
 
