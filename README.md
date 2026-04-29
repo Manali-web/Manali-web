@@ -9,9 +9,8 @@
 
 ## 🐍 My Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Manali-web/Manali-web/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Manali-web/Manali-web/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Firmware
